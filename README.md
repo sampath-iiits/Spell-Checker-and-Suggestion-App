@@ -46,3 +46,21 @@ If the rating is less than or equal to 3, user remarks and feedback are recorded
 Link for downloading the dataset :
 
 "https://drive.google.com/file/d/178SguEiFbGunHZ32wrPjLn7hWXCY3gwg/view?usp=drive_link"
+
+
+# Project Description
+
+1. We have to run the code first .
+2. Enter any word you want to search and Enter a number (<30) …. How many suggestions do you want.
+3. Click on “Get Suggestions”.
+4. If the word you entered is present in the dataset ; It will give as word is correctly spelt ; later you can give your rating .
+5. If the word you entered is not present in the dataset ; It will give the suggestions how many you want.
+6. It will ask that whether we are satisfied with the given suggestion of words.
+7. If you are satisfied ; you can click ‘yes’ and you can give your rating (1 to 5) .
+8. If you are not satisfied ; you can click ‘no’ and It will ask whether you want to refine the before suggestions.
+9. If you want to refine the suggestions , click on ‘yes’ and you can refine the suggestions based on first letter and last letter of the entered word .
+10. Then ; it will refine and it will modify the before suggestions.
+11. If you are satisfied with the modified suggestions ; you can click on ‘yes’ and you can give your rating (1 to 5) by clicking ‘Give your Rating’.
+12. If you are not satisfied with the modified suggestions ; you can click on ‘no’ and you can give your rating (1 to 5) and later you can give your remarks/feedback .
+13. If you don’t want to refine the suggestions , click on ‘no’ and you can give your rating ( 1 to 5 ) .
+14. Remember that every rating and remarks will be recorded in the files ‘Review.txt’ and ‘remarks.txt’ automatically.
